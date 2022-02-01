@@ -152,7 +152,7 @@
     font-weight: 500;
 }
 
-.navbar__item--separate:after {
+.navbar__item--separate::after {
     content: "";
     display: block;
     position: absolute;
